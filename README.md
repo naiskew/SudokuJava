@@ -1,5 +1,5 @@
 SudokuJava
 ==========
 
-generate a random valid sudoku with java
-main program is Sudoku.java
+generate a random valid sudoku with java.
+To run this program run Sudoku.java (main program)
